@@ -1,0 +1,9 @@
+host;hostname;hostname_type;protocol;port;name;state;product;extrainfo;reason;version;conf;cpe
+52.96.222.194;outlook.com;user;tcp;25;smtp;open;Microsoft Exchange smtpd;;syn-ack;;10;cpe:/o:microsoft:windows
+52.96.222.194;outlook.com;user;tcp;80;http;open;Microsoft IIS httpd;;syn-ack;10.0;10;cpe:/o:microsoft:windows
+52.96.222.194;outlook.com;user;tcp;110;pop3;open;Microsoft Exchange Online pop3d;;syn-ack;;10;cpe:/o:microsoft:windows
+52.96.222.194;outlook.com;user;tcp;143;imap;open;Microsoft Exchange Online imapd;;syn-ack;;10;cpe:/o:microsoft:windows
+52.96.222.194;outlook.com;user;tcp;443;http;open;Microsoft IIS httpd;;syn-ack;10.0;10;cpe:/o:microsoft:windows
+52.96.222.194;outlook.com;user;tcp;587;smtp;open;Microsoft Exchange smtpd;;syn-ack;;10;cpe:/o:microsoft:windows
+52.96.222.194;outlook.com;user;tcp;993;imap;open;Microsoft Exchange Online imapd;;syn-ack;;10;cpe:/o:microsoft:windows
+52.96.222.194;outlook.com;user;tcp;995;pop3;open;Microsoft Exchange Online pop3d;;syn-ack;;10;cpe:/o:microsoft:windows
