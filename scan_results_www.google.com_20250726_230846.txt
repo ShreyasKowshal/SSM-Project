@@ -1,0 +1,5 @@
+host;hostname;hostname_type;protocol;port;name;state;product;extrainfo;reason;version;conf;cpe
+172.217.24.4;www.google.com;user;tcp;80;http;open;gws;;syn-ack;;10;
+172.217.24.4;lcmaaa-an-in-f4.1e100.net;PTR;tcp;80;http;open;gws;;syn-ack;;10;
+172.217.24.4;www.google.com;user;tcp;443;https;open;gws;;syn-ack;;10;
+172.217.24.4;lcmaaa-an-in-f4.1e100.net;PTR;tcp;443;https;open;gws;;syn-ack;;10;
