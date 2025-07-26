@@ -36,5 +36,5 @@ It is built for learning and practicing core cybersecurity concepts with both **
 ## 🚀 How to Run
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/SSM-Project.git
+   git clone https://github.com/ShreyasKowshal/SSM-Project.git
    cd SSM-Project
