@@ -101,6 +101,7 @@ class SSMApp:
         canvas.create_rectangle(0, 0, 1600, 1000, fill="#1a237e", outline="")
         return canvas
 
+    
     def login_frame(self):
         self.clear_window()
         canvas = self.apply_background()
