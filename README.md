@@ -20,7 +20,7 @@ It is built for learning and practicing core cybersecurity concepts with both **
   - Implements **Time-based One-Time Passwords (TOTP)** for enhanced security  
 
 - **Encryption**  
-  - Sensitive data encrypted using  **Fernet symmetric encryption**
+  - Sensitive data encrypted using **Fernet symmetric encryption**
 
 ---
 
